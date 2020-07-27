@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+**I am a Java Champion, Sr. Enterprise Architect, Author, International Speaker, and technology enthusiast.**
+
+I love sharing my experience with others, contribute to open source projects related to Java, and sharing PoCs & problems as code with others on this repository.
+
 <!--
 **mohamed-taman/mohamed-taman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+<!-- 
 ![Twitter URL](https://img.shields.io/twitter/url?color=white&label=follow%20on%20Twitter&logo=twitter&logoColor=white&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2F_tamanm) ![LinkedIn URL](https://img.shields.io/twitter/url?color=white&label=con%20on%20linkedin&logo=linkedin&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmohamedtaman) ![FACEBOOK URL](https://img.shields.io/twitter/url?color=white&label=con%20on%20Facebook&logo=facebook&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.facebook.com%2Fmohamed.m.taman.7) ![Instagram URL](https://img.shields.io/twitter/url?color=white&label=con%20on%20instagram&logo=instagram&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fm.m.taman%2F)
-
+-->
 **I am a Java Champion, Oracle Groundbreakers ambassador, Jakarta EE ambassador, Sr. Enterprise Architect, Author, International Speaker, and technology enthusiast.**
 
 I love sharing my experience with others, contribute to open source projects related to Java, and sharing PoCs & problems as code on this repository.

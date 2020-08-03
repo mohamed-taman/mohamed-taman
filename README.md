@@ -10,7 +10,7 @@ I write articles for **Java Magazine**, **Oracle Magazine**, **IBM Developers Wo
 
 - 🎯 I’m currently focusing on: [Springy store project](https://github.com/mohamed-taman/Springy-Store-Microservices),⭐️ star the project if you like it 🤩.
 - 🔭 I’m currently working on: Something cool 😉.
-- 💬 Ask me about: Java, Web, Database, Architecture, Cloud, Design Patterns, Enterprise integration, Distributed Systems,Blockchain, People Management.
+- 💬 Ask me about: Java, Web, Database, Architecture, Cloud, Big Data, Design Patterns, Enterprise integration, Distributed Systems, Blockchain, People Management.
 - 📫 How to reach me: catch, and follw me from above links 👆, and follow my github account.
 
 <!--

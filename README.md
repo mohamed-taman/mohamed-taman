@@ -4,16 +4,17 @@
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/mohamedtaman)
 [![Facebook URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/mohamed.m.taman.7)
 
-**I am a Java Champion, Oracle Groundbreakers ambassador, Jakarta EE ambassador, Sr. Enterprise Architect, Author, International Speaker, and technology enthusiast.**
+**I am a Java Champion, Oracle Groundbreakers ambassador, Jakarta EE ambassador, Chief Architect, Author, International Speaker, and technology enthusiast.**
 
 I love sharing my experience with others, contribute to open source projects related to Java, and sharing PoCs & problems as code on this repository.
 
 I write articles for **Java Magazine**, **Oracle Magazine**, **IBM Developers Work**, **Dzone**, **Medium**, and **InfoQ**.
 
 - 🎯 I’m currently focusing on: [Springy store project](https://github.com/mohamed-taman/Springy-Store-Microservices),⭐️ star the project if you like it 🤩.
-- 🔭 I’m currently working on: Something cool 😉.
-- 💬 Ask me about: Java, Web, Database, Architecture, Cloud, Big Data, Design Patterns, Enterprise integration, Distributed Systems, Blockchain, People Management.
+- 🔭 I’m currently working on: Something cool related to AI and soon will publish it 😉.
+- 💬 Ask me about: Java, Spring, Jakarta EE, Web, Mobile, RESTful APIs, Database, Architecture, Cloud, Big Data, Design Patterns, Enterprise integration, Distributed Systems, Blockchain, People Management.
 - 📫 How to reach me: catch, and follow me from the above links 👆, in addition to follow me here.
+- ⚡ Fun fact: I love 🐍, 🐜, 🐝, and ☕️.
 
 <!--
 **mohamed-taman/mohamed-taman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

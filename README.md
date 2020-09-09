@@ -9,8 +9,9 @@
 I love sharing my experience with others, contribute to open source projects related to Java, and sharing PoCs & problems as code on this repository.
 
 I write articles for **Java Magazine**, **Oracle Magazine**, **IBM Developers Work**, **Dzone**, **Medium**, and **InfoQ**.
-- 🤔 I’m currently open for: A new job opportunity, [LINK TO MY RESUME](https://drive.google.com/file/d/1fvV8oI7sRQOdcccy3OgXfesuMtUwHd07/view?usp=sharing).
-- 🎯 I’m currently focusing on: [Springy store project](https://github.com/mohamed-taman/Springy-Store-Microservices),⭐️ star the project if you like it 🤩.
+
+<!-- 🤔  I’m currently open for: A new job opportunity, [LINK TO MY RESUME](https://drive.google.com/file/d/1fvV8oI7sRQOdcccy3OgXfesuMtUwHd07/view?usp=sharing). -->
+- 🎯 I’m currently focusing on: [Springy Store Microservices](https://github.com/mohamed-taman/Springy-Store-Microservices),⭐️ star the project if you like it 🤩.
 - 🔭 I’m currently working on: Something cool related to AI and soon will publish it 😉.
 - 💬 Ask me about: Java, Spring, Jakarta EE, Web, Mobile, RESTful APIs, Database, Architecture, Cloud, Big Data, Design Patterns, Enterprise integration, Distributed Systems, Blockchain, People Management.
 - 📫 How to reach me: catch, and follow me from the above links 👆, in addition to follow me here.

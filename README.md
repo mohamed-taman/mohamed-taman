@@ -8,7 +8,7 @@
 
 I love sharing my knowledge and experience, contribute to open source projects related to Java, and sharing PoCs & problems as code on this repository.
 
-I write articles for [**Oracle Java Magazine**](https://blogs.oracle.com/author/mohamed-taman), **Oracle Magazine**, **IBM Developer** Series [[1]](https://developer.ibm.com/technologies/java/series/java-theory-and-practice/) [[2]](https://developer.ibm.com/components/java-platform/series/java-modularity/), **DZone**, **Medium**, and [**InfoQ**](https://www.infoq.com/profile/Mohamed-Taman/#articles).
+I am author at [**Oracle Java Magazine**](https://blogs.oracle.com/author/mohamed-taman), **Oracle Magazine**, **IBM Developer** Series [[1]](https://developer.ibm.com/technologies/java/series/java-theory-and-practice/) [[2]](https://developer.ibm.com/components/java-platform/series/java-modularity/), **DZone**, **Medium**, and [**InfoQ**](https://www.infoq.com/profile/Mohamed-Taman/#articles).
 
 <!-- 🤔  I’m currently open for: A new job opportunity, [LINK TO MY RESUME](https://drive.google.com/file/d/1fvV8oI7sRQOdcccy3OgXfesuMtUwHd07/view?usp=sharing). -->
 - 🎯 **I’m currently focusing on**: [Springy Store Microservices](https://github.com/mohamed-taman/Springy-Store-Microservices) and [Flight Advisor Service](https://github.com/mohamed-taman/Flight-Advisor), ⭐️ star the projects if you like it 🤩.

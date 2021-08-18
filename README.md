@@ -4,22 +4,22 @@
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/mohamedtaman)
 [![Facebook URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/mohamed.m.taman.7)
 
-**I speak Java, I am a Java Champion, Oracle Groundbreakers ambassador, Jakarta EE ambassador, Chief Architect, Author, International Speaker, Trainer, and technology enthusiast.**
+**I speak Java, and I am a Java Champion, Oracle Groundbreakers ambassador, Jakarta EE ambassador, Chief Architect, Author, International Speaker, Trainer, and technology enthusiast.**
 
 I love sharing my knowledge and experience, contribute to open source projects related to Java, and sharing PoCs & problems as code on this repository.
 
 I am author at [**Oracle Java Magazine**](https://blogs.oracle.com/javamagazine/?search_terms=mohamed%20Taman), **Oracle Magazine**, **IBM Developer** Series [[1]](https://developer.ibm.com/technologies/java/series/java-theory-and-practice/) [[2]](https://developer.ibm.com/components/java-platform/series/java-modularity/), **DZone**, **Medium**, and [**InfoQ**](https://www.infoq.com/profile/Mohamed-Taman/#articles).
 
 <!-- 🤔  I’m currently open for: A new job opportunity, [LINK TO MY RESUME](https://drive.google.com/file/d/1fvV8oI7sRQOdcccy3OgXfesuMtUwHd07/view?usp=sharing). -->
-- 🎯 **I’m currently focusing on**: [Springy Store Microservices](https://github.com/mohamed-taman/Springy-Store-Microservices) and [Flight Advisor Service](https://github.com/mohamed-taman/Flight-Advisor), ⭐️ star the projects if you like it 🤩.
+- 🎯 &nbsp; **I’m currently focusing on**: [Springy Store Microservices](https://github.com/mohamed-taman/Springy-Store-Microservices) and [Flight Advisor Service](https://github.com/mohamed-taman/Flight-Advisor), ⭐️ star the projects if you like it 🤩.
 
-- 🔭 **Also, I’m working on**: Something cool related to AI and soon will publish it 😉.
+- 🔭 &nbsp; **Also, I’m working on**: Something cool related to AI and soon will publish it 😉.
 
-- 💬 **Ask me about**: OOP, Java, Spring, Jakarta EE, Web, Mobile, RESTful APIs, Database, Architecture, Cloud, Big Data, Design Patterns, Testing, Security, Enterprise integration, Distributed Systems, Blockchain, People Management.
+- 💬 &nbsp; **Ask me about**: OOP, Java, Spring, Jakarta EE, Web, Mobile, RESTful APIs, Database, Architecture, Cloud, Big Data, Design Patterns, Testing, Security, Enterprise integration, Distributed Systems, Blockchain, People Management.
 
-- 📫 **How to reach me**: catch, and follow me from the above links 👆, in addition to follow me here.
+- 📫 &nbsp; **How to reach me**: catch, and follow me from the above links 👆, in addition to follow me here.
 
-- ⚡ **Fun fact**: I love 🐍, 🐜, 🐝, and ☕️.
+- ⚡ &nbsp; **Fun fact**: I love 🐍, 🐜, 🐝, and ☕️.
 
 <hr/>
 

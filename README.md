@@ -4,7 +4,7 @@
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/mohamedtaman)
 [![Facebook URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/mohamed.m.taman.7)
 
-**I speak Java, and I am a Java Champion, Oracle ACE, Jakarta EE ambassador, Chief Architect, Author, International Speaker, Trainer, and technology enthusiast.**
+**I speak Java, and I am a [Java Champion](https://github.com/aalmiray/java-champions), Oracle ACE, Jakarta EE ambassador, Chief Architect, Author, International Speaker, Trainer, and technology enthusiast.**
 
 I love sharing my knowledge and experience, contribute to open source projects related to Java, and sharing PoCs & problems as code on this repository.
 

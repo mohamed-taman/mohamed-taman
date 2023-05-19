@@ -4,20 +4,20 @@
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/mohamedtaman)
 [![Facebook URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/mohamed.m.taman.7)
 
-**I speak Java, and I am a [Java Champion](https://javachampions.org/members.html), Oracle ACE, Jakarta EE ambassador, Chief Architect, Author, International Speaker, Trainer, and technology enthusiast.**
+**I speak Java and am a [Java Champion](https://javachampions.org/members.html), Oracle ACE Alumni, Jakarta EE ambassador, Chief Architect, Author, International Speaker, Trainer, and technology enthusiast.**
 
-I love sharing my knowledge and experience, contribute to open source projects related to Java, and sharing PoCs & problems as code on this repository.
+I love sharing my knowledge and experience, contributing to open-source projects related to Java, and sharing PoCs & problems as code on this repository.
 
-I am author at [**Oracle Java Magazine**](https://blogs.oracle.com/authors/mohamed-taman), **Oracle Magazine**, **IBM Developer** Series [[1]](https://developer.ibm.com/technologies/java/series/java-theory-and-practice/) [[2]](https://developer.ibm.com/components/java-platform/series/java-modularity/), **DZone**, **Medium**, [**InfoQ**](https://www.infoq.com/profile/Mohamed-Taman/#articles), and **Packt** ([Getting Started with Clean Code Java SE 9 "Video"](https://subscription.packtpub.com/video/programming/9781787285064/54950/54955/the-course-overview) and [JavaFX Essentials "Book"](https://www.packtpub.com/product/javafx-essentials/9781784398026)).
+I am author at [**Oracle Java Magazine**](https://blogs.oracle.com/authors/mohamed-taman), **Oracle Magazine**, **IBM Developer** Series [[1]](https://developer.ibm.com/technologies/java/series/java-theory-and-practice/) [[2]](https://developer.ibm.com/components/java-platform/series/java-modularity/), **DZone**, **Medium**, [**InfoQ**](https://www.infoq.com/profile/Mohamed-Taman/#articles), and **Packt Publishing** ([Getting Started with Clean Code Java SE 9 "Video"](https://subscription.packtpub.com/video/programming/9781787285064/54950/54955/the-course-overview) and [JavaFX Essentials "Book"](https://www.packtpub.com/product/javafx-essentials/9781784398026)).
 
 <!-- 🤔  I’m currently open for: A new job opportunity, [LINK TO MY RESUME](https://drive.google.com/file/d/1fvV8oI7sRQOdcccy3OgXfesuMtUwHd07/view?usp=sharing). -->
-- 🎯 &nbsp; **I’m currently focusing on**: [Springy Store Microservices](https://github.com/mohamed-taman/Springy-Store-Microservices) and [Flight Advisor Service](https://github.com/mohamed-taman/Flight-Advisor), in addition, I always update other projects to the latest JDK and software libraries, ⭐️ star the projects if you like it 🤩. 
+- 🎯 &nbsp; **I’m currently focusing on**: [Springy Store Microservices](https://github.com/mohamed-taman/Springy-Store-Microservices) and [Flight Advisor Service](https://github.com/mohamed-taman/Flight-Advisor); in addition, I constantly update other projects to the latest JDK and software libraries; ⭐️ star the projects you like 🤩, to continually support them. 
 
-- 🔭 &nbsp; **Also, I’m working on**: Something cool related to AI and soon will publish it 😉.
+- 🔭 &nbsp; **I’m also working** on Something cool related to AI and will soon publish it 😉.
 
-- 💬 &nbsp; **Ask me about**: OOP, Java, Spring, Jakarta EE, Web, Mobile, RESTful APIs, Database, Architecture, Cloud, Big Data, Design Patterns, Testing, Security, Enterprise integration, Distributed Systems, microservices, Blockchain, People Management.
+- 💬 &nbsp; **Ask me about**: OOP, Java, Spring, Jakarta EE, Web, Mobile, RESTful APIs, Database, Architecture, Cloud, Big Data, Design Patterns, Testing, Security, Enterprise integration, Distributed Systems, Microservices Blockchain, and People Management.
 
-- 📫 &nbsp; **How to reach me**: catch, and follow me from the above links 👆, in addition to follow me here.
+- 📫 &nbsp; **How to reach me**: catch and follow me from the above links 👆; also, follow me here.
 
 - ⚡ &nbsp; **Fun fact**: I love 🐍, 🐜, 🐝, and ☕️.
 

@@ -1,8 +1,9 @@
 ### Hi there, I am Mohamed Taman! 👋
-[![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/_tamanm)
+[![Twitter URL](https://img.shields.io/static/v1?color=red&label=(Twitter)%20&logo=x&logoColor=white&style=for-the-badge&message=Follow)](https://x.com/_tamanm)
 [![Instagram URL](https://img.shields.io/static/v1?color=red&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/m.m.taman)
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/mohamedtaman)
 [![Facebook URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/mohamed.m.taman.7)
+[![Microsoft URL](https://img.shields.io/static/v1?color=red&label=Microsoft&logo=microsoft&logoColor=white&style=for-the-badge&message=Follow)](https://learn.microsoft.com/en-us/users/mohamedtaman/)
 
 **I speak Java and am a [Java Champion](https://javachampions.org/members.html), Oracle ACE Alumni, Jakarta EE ambassador, Chief Architect, Author, International Speaker, Trainer, and technology enthusiast.**
 

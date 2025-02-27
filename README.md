@@ -16,7 +16,7 @@ I am an author at [**Oracle Java Magazine**](https://blogs.oracle.com/authors/mo
 
 - 🔭 &nbsp; **I’m also working** on Something cool related to AI and will soon publish it 😉.
 
-- 💬 &nbsp; **Ask me about**: OOP, Java, Spring, Jakarta EE, Web, Mobile, RESTful APIs, Database, Architecture, Cloud, Big Data, Design Patterns, Testing, Security, Enterprise integration, Distributed Systems, Microservices, Blockchain, and People Management.
+- 💬 &nbsp; **Ask me about**: OOP, Java, Spring, Jakarta EE, Web, Mobile, AI (ML, LLM, RAG, GraphRAG), RESTful & GraphQL APIs, Databases (Lakehouse, ETL, ELT, DataMesh), Architecture, Cloud (Azure, AWS), Big Data, Design Patterns, Testing, Security, Enterprise integration, Distributed Systems, Microservices, Blockchain, and People Management.
 
 - 📫 &nbsp; **How to reach me**: catch and follow me from the above links 👆; also, follow me here.
 
